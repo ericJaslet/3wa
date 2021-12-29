@@ -1,0 +1,20 @@
+{
+    "name": "ericjaslet/model_01",
+    "authors": [
+        {
+            "name": "Eric Jaslet",
+            "email": "eric.jaslet@lean.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}

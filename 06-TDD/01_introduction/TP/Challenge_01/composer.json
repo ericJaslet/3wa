@@ -1,0 +1,21 @@
+{
+    "name": "eric/tpone",
+    "autoload": {
+        "psr-4": {
+            "Cart\\": "src/",
+            "" : "tests/"
+        },
+        "classmap": [
+            "src/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Eric Jaslet",
+            "email": "eric.jaslet@lean.fr"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}

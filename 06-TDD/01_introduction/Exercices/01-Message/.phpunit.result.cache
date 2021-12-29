@@ -1,0 +1,1 @@
+{"version":1,"defects":{"MessageTest::testOne":4,"MessageTest::testLangEn":3,"MessageTest::testTranslateEnv":3},"times":{"MessageTest::testOne":0.007,"MessageTest::testTwo":0,"MessageTest::testLangEn":0.006,"MessageTest::testLangFr":0,"MessageTest::testIfExistEnv":0,"MessageTest::testVariableEnv":0.001,"MessageTest::testTranslateEnv":0}}

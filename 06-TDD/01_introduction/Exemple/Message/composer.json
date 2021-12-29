@@ -1,0 +1,16 @@
+{
+    "name": "ericjaslet/message",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/",
+            "" : "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eric Jaslet",
+            "email": "eric.jaslet@lean.fr"
+        }
+    ],
+    "require": {}
+}
