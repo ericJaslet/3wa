@@ -1,0 +1,17 @@
+{
+    "name": "ericjaslet/autoloader",
+    "description": "exemple",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "john@example.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
