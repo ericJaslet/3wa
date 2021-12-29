@@ -1,0 +1,28 @@
+{% extends '@EasyAdmin/layout.html.twig' %}
+{% block content %}
+    <div>
+        <h1>Administration</h1>
+        <p>Bienvenue dans l'interface d'administration.</p>
+        <div class="row">
+        <div class="col-sm-6 col-md-4 col-xl-3">
+            <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Google Analytics</h5>
+                <p class="card-text">Suivie de la fréqentation de votre site.</p>
+                <a href="https://analytics.google.com/analytics/web" class="btn btn-primary" target="_blank">Google Analytics</a>
+            </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-xl-3">
+            <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Inviter un élève.</h5>
+                <label for="invitation-student" class="form-label">Email :</label>
+                <input id="invitation-student" type="email" class="form-control">
+                <a href="#" class="btn btn-primary mt-2">Inviter</a>
+            </div>
+            </div>
+        </div>
+        </div>
+    </div>
+{% endblock %}
