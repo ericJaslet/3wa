@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CartTest::testCartIsCart":4,"CartTest::testLogSumExist":5},"times":{"CartTest::testCartIsCart":0.01,"CartTest::testLogSumExist":0,"CartTest::testSum":0.001}}
