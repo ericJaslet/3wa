@@ -1,0 +1,9 @@
+{
+    "name": "ericjaslet/user-login",
+    "autoload": {
+        "psr-4": {
+            "UserLogin\\": "src/"
+        }
+    },
+    "require": {}
+}
